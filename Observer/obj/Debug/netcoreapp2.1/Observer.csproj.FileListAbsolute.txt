@@ -1,0 +1,11 @@
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Observer\obj\Debug\netcoreapp2.1\Observer.pdb

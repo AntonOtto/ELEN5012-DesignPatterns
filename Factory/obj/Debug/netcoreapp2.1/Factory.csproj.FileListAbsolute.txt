@@ -1,0 +1,11 @@
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.deps.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.runtimeconfig.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfo.cs
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.dll
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Factory\obj\Debug\netcoreapp2.1\Factory.pdb

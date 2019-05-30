@@ -1,0 +1,11 @@
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\bin\Debug\netcoreapp2.1\Composite.deps.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\bin\Debug\netcoreapp2.1\Composite.runtimeconfig.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\bin\Debug\netcoreapp2.1\Composite.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\bin\Debug\netcoreapp2.1\Composite.dll
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\bin\Debug\netcoreapp2.1\Composite.pdb
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\obj\Debug\netcoreapp2.1\Composite.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\obj\Debug\netcoreapp2.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\obj\Debug\netcoreapp2.1\Composite.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\obj\Debug\netcoreapp2.1\Composite.AssemblyInfo.cs
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\obj\Debug\netcoreapp2.1\Composite.dll
+C:\Users\anton\source\repos\ELEN5012 - DesignPatterns\Composite\obj\Debug\netcoreapp2.1\Composite.pdb
